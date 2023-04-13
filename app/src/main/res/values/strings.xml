@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="play_again">Play Again</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="player_0_score">Player \'O\' : %1$d</string>
+    <string name="player_X_score">Player \'X\' : %1$d</string>
+    <string name="player_O_turn">Player \'O\' turn</string>
+    <string name="player_X_turn">Player \'X\' turn</string>
+    <string name="player_X_won">Player \'X\' won</string>
+    <string name="player_0_won">Player \'O\' won</string>
+    <string name="draw_count">Draw : %1$d</string>
+    <string name="draw">DRAW</string>
+    <string name="ok">OK</string>
+    <string name="empty"> </string>
+    <string name="player">Player </string>
+</resources>

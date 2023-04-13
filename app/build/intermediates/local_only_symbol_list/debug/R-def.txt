@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string draw
+string draw_count
+string empty
+string ok
+string play_again
+string player
+string player_0_score
+string player_0_won
+string player_O_turn
+string player_X_score
+string player_X_turn
+string player_X_won
+string tic_tac_toe
+string title_activity_main2
+style Theme.TicTacToe
+xml backup_rules
+xml data_extraction_rules
